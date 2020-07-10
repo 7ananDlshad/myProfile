@@ -7,7 +7,7 @@ export default function Body() {
       <Row>
         <Col align="middle" lg={4}>
           <img
-            src={require("./images/myPic.jpg")}
+            src={require("../images/myPic.jpg")}
             alt="my pic"
             className="rounded w-75 mb-5 ml-5"
           />

@@ -11,7 +11,7 @@ export default function Project() {
       <Row>
         <Col lg={4}>
           <img
-            src={require("./images/todo.jpg")}
+            src={require("../images/todo.jpg")}
             alt="my pic"
             width="300px"
             height="250px"
@@ -50,7 +50,7 @@ export default function Project() {
       <Row>
         <Col lg={4}>
           <img
-            src={require("./images/wallet.png")}
+            src={require("../images/wallet.png")}
             alt="my pic"
             width="300px"
             height="250px"
@@ -84,7 +84,7 @@ export default function Project() {
       <Row>
         <Col lg={4}>
           <img
-            src={require("./images/movie.jpg")}
+            src={require("../images/moviePic.jpg")}
             alt="my pic"
             width="300px"
             height="250px"
@@ -118,7 +118,7 @@ export default function Project() {
       <Row>
         <Col lg={4}>
           <img
-            src={require("./images/resturante.jpg")}
+            src={require("../images/resturante.jpg")}
             alt="my pic"
             width="300px"
             height="250px"
