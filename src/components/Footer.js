@@ -67,7 +67,7 @@ export default function Footer() {
           </Col>
           <Col style={{ marginTop: "20px" }} lg={5}>
             <h5>Follow me</h5>
-            <a href="https://www.facebook.com/">
+            <a href="https://www.facebook.com/7anan.engineer">
               <FontAwesomeIcon
                 icon={faFacebookF}
                 style={{
@@ -77,7 +77,7 @@ export default function Footer() {
                 }}
               />
             </a>
-            <a href="https://twitter.com/home">
+            <a href="https://twitter.com/7ananTaha">
               <FontAwesomeIcon
                 icon={faTwitter}
                 style={{
