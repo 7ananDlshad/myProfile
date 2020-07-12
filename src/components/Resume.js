@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function Resume() {
   return (
     <div className="container">
-      <Row>
+      <Row className="mx-1">
         <h1>RESUME</h1>
       </Row>
 

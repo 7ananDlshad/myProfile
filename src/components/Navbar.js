@@ -6,7 +6,7 @@ import "./component.css";
 export default function Navbar1() {
   return (
     <>
-      <Navbar bg="#fffaf0" expand="lg" className="p-5">
+      <Navbar bg="#fffaf0" expand="lg" className="p-4">
         <Navbar.Brand href="#home" style={{ fontSize: "30px" }}>
           Hanan Dlshad
         </Navbar.Brand>

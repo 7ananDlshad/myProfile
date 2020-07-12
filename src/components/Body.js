@@ -5,14 +5,14 @@ export default function Body() {
   return (
     <>
       <Row>
-        <Col align="middle" lg={4}>
+        <Col lg={4}>
           <img
             src={require("../images/myPic.jpg")}
             alt="my pic"
             className="rounded w-75 mb-5 ml-5"
           />
         </Col>
-        <Col lg={6} className="my-5">
+        <Col lg={6} className="my-5 mx-5">
           <h1>Hello,</h1>
           <h3>A bit about me:</h3>
           <p style={{ overflowY: "hidden" }}>

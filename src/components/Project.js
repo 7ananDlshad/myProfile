@@ -4,7 +4,7 @@ import { Row, Col, Badge } from "react-bootstrap";
 export default function Project() {
   return (
     <div className="container">
-      <Row>
+      <Row className="mx-1">
         <h1>LATEST PROJECTS</h1>
       </Row>
       <hr />
